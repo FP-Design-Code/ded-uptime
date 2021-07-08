@@ -7,7 +7,7 @@ sites:
 
 status-website:
   name: Uptime | Floating-Point
-  cname: status.floating-point.com
+  cname: uptime.floating-point.com
   introTitle: "Current status of **Floating-Point's** server."
   theme: dark
   logoUrl: https://status.floating-point.com/uptime/icon.svg
