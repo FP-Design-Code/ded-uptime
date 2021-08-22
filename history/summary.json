@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/ded.floating-point.com",
     "slug": "server",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 956,
-    "timeDay": 680,
-    "timeWeek": 1067,
-    "timeMonth": 976,
-    "timeYear": 956,
+    "uptimeYear": "99.98%",
+    "time": 953,
+    "timeDay": 850,
+    "timeWeek": 1064,
+    "timeMonth": 975,
+    "timeYear": 953,
     "dailyMinutesDown": {
       "2021-08-01": 16
     }
