@@ -4,7 +4,7 @@
     "url": "https://ded.floating-point.com",
     "icon": "https://favicons.githubusercontent.com/ded.floating-point.com",
     "slug": "server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 687,
     "timeYear": 898,
     "dailyMinutesDown": {
+      "2021-11-14": 0,
       "2021-09-23": 26,
       "2021-09-01": 23,
       "2021-08-01": 16
